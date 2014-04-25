@@ -98,4 +98,5 @@ if you have any problems.
 
 6. Changes by Ryan Coleman
 
-Writes out alpha shape data structure for use/reading in by other code
+Writes out alpha shape data structure for use/reading in by other code.
+See small.alpha for sample file
