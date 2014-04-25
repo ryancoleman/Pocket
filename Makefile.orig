@@ -1,0 +1,34 @@
+#
+NAME=pocket
+DIR=.
+NAMEFUL=$(DIR)/$(NAME)
+FC = ifc
+FFLAGS = -c -u -O -w90 -w95
+CC = icc
+CFLAGS = -c -O
+LDFLAGS = -O -static -Vaxlib
+LIBRARIES= -lgmp
+
+.c.o :
+	$(CC) $(CFLAGS) $<
+
+.f.o :
+	$(FC) $(FFLAGS) $<
+
+OBJECTS = \
+$(NAME).o \
+protein_label.o readrad.o \
+delcx.o truncate_real.o alpha_fixed.o \
+sos_minor_gmp.o alf_tetra_gmp.o tetra_flow_gmp.o \
+delaunay_flow.o flow.o depth.o \
+measure_vol.o spacefill_vol.o \
+pocket_info.o mouth_info.o \
+rasmol_script.o kin_script.o 
+
+$(NAMEFUL) : $(OBJECTS)
+	$(FC) -o $(NAMEFUL) $(LDFLAGS) $(OBJECTS) $(LIBRARIES)
+
+clean:
+	rm -f *.o $(NAMEFUL)
+
+$(OBJECTS) : pocket.h constants.h

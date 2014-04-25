@@ -1,0 +1,53 @@
+select TYR10.O        
+select selected or THR11.CA       
+select selected or THR11.O        
+select selected or THR11.CG2      
+select selected or THR11.OG1      
+select selected or CYS14.N        
+select selected or CYS14.CB       
+select selected or CYS14.C        
+select selected or CYS14.O        
+select selected or ALA16.N        
+select selected or ALA16.CB       
+select selected or ALA16.C        
+select selected or ALA16.O        
+select selected or ARG17.CA       
+select selected or ARG17.CB       
+select selected or ARG17.C        
+select selected or ARG17.CG       
+select selected or ARG17.NH1      
+select selected or ARG17.NH2      
+select selected or ILE18.N        
+select selected or ILE18.CB       
+select selected or ILE18.C        
+select selected or ILE18.O        
+select selected or ILE18.CG1      
+select selected or ILE18.CD1      
+select selected or ILE19.CD1      
+select selected or ARG20.CB       
+select selected or ARG20.CG       
+define pocket1 selected       
+select PHE4.CE1       
+select selected or PRO9.CB        
+select selected or ARG20.CB       
+select selected or ARG20.C        
+define pocket2 selected       
+select PRO9.CB        
+select selected or PRO9.C         
+select selected or TYR10.C        
+select selected or THR11.OG1      
+define pocket3 selected       
+ restrict none
+ background white
+ select all
+ wireframe
+ backbone 50
+select pocket1   
+color green    
+ spacefill
+select pocket2   
+color red      
+ spacefill
+select pocket3   
+color yellow   
+ spacefill

@@ -1,0 +1,23 @@
+  
+ Protein             : small     
+ Probe radius        :    1.400000    
+ Number of atoms     :          162
+ Total Surface Area  :    2776.907    
+ Total Volume        :    5564.130    
+  
+  
+ Pockets : 
+  
+ Id   N_mth       Surface        Volume
+   1      1       92.9703       65.0164
+   2      1        9.4095       18.6077
+   3      1        0.0006        0.0000
+
+Tot              102.3805       83.6241
+  
+ Mouths : 
+  
+ Id   Pocket      Surface
+   1      1       53.5269
+   2      2       54.1776
+   3      3        0.0043

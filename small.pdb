@@ -1,0 +1,236 @@
+HEADER    PROTEINASE INHIBITOR (TRYPSIN)          13-MAY-87   6PTI      6PTI   3
+COMPND    BOVINE PANCREATIC TRYPSIN INHIBITOR (/BPTI$,CRYSTAL FORM      6PTI   4
+COMPND   2 /III$)                                                       6PTI   5
+SOURCE    BOVINE (BOS $TAURUS) PANCREAS                                 6PTI   6
+AUTHOR    A.WLODAWER                                                    6PTI   7
+REVDAT   2   16-JAN-88 6PTIA   1       JRNL                             6PTIA  1
+REVDAT   1   16-OCT-87 6PTI    0                                        6PTI   8
+JRNL        AUTH   A.WLODAWER,J.NACHMAN,G.L.GILLILAND,W.GALLAGHER,      6PTI   9
+JRNL        AUTH 2 C.WOODWARD                                           6PTI  10
+JRNL        TITL   STRUCTURE OF FORM /III$ CRYSTALS OF BOVINE           6PTI  11
+JRNL        TITL 2 PANCREATIC TRYPSIN INHIBITOR                         6PTI  12
+JRNL        REF    J.MOL.BIOL.                   V. 198   469 1987      6PTIA  2
+JRNL        REFN   ASTM JMOBAK  UK ISSN 0022-2836                  070  6PTIA  3
+REMARK   1                                                              6PTI  15
+REMARK   1 REFERENCE 1                                                  6PTI  16
+REMARK   1  AUTH   A.WLODAWER,J.WALTER,R.HUBER,L.SJOLIN                 6PTI  17
+REMARK   1  TITL   STRUCTURE OF BOVINE PANCREATIC TRYPSIN INHIBITOR.    6PTI  18
+REMARK   1  TITL 2 RESULTS OF JOINT NEUTRON AND X-RAY REFINEMENT OF     6PTI  19
+REMARK   1  TITL 3 CRYSTAL FORM /II$                                    6PTI  20
+REMARK   1  REF    J.MOL.BIOL.                   V. 180   307 1984      6PTI  21
+REMARK   1  REFN   ASTM JMOBAK  UK ISSN 0022-2836                  070  6PTI  22
+REMARK   1 REFERENCE 2                                                  6PTI  23
+REMARK   1  AUTH   A.WLODAWER,J.DEISENHOFER,R.HUBER                     6PTI  24
+REMARK   1  TITL   COMPARISON OF TWO HIGHLY REFINED STRUCTURES OF       6PTI  25
+REMARK   1  TITL 2 BOVINE PANCREATIC TRYPSIN INHIBITOR                  6PTI  26
+REMARK   1  REF    J.MOL.BIOL.                   V. 193   145 1987      6PTI  27
+REMARK   1  REFN   ASTM JMOBAK  UK ISSN 0022-2836                  070  6PTI  28
+REMARK   1 REFERENCE 3                                                  6PTI  29
+REMARK   1  AUTH   J.WALTER,R.HUBER                                     6PTI  30
+REMARK   1  TITL   PANCREATIC TRYPSIN INHIBITOR. A NEW CRYSTAL FORM     6PTI  31
+REMARK   1  TITL 2 AND ITS ANALYSIS                                     6PTI  32
+REMARK   1  REF    J.MOL.BIOL.                   V. 167   911 1983      6PTI  33
+REMARK   1  REFN   ASTM JMOBAK  UK ISSN 0022-2836                  070  6PTI  34
+REMARK   2                                                              6PTI  35
+REMARK   2 RESOLUTION. 1.7 ANGSTROMS.                                   6PTI  36
+REMARK   3                                                              6PTI  37
+REMARK   3 REFINEMENT. BY THE RESTRAINED LEAST-SQUARES PROCEDURE OF J.  6PTI  38
+REMARK   3  KONNERT AND W. HENDRICKSON (PROGRAM *PROLSQ*).  THE R       6PTI  39
+REMARK   3  VALUE IS 0.16.  THE RMS DEVIATION FROM IDEALITY OF THE      6PTI  40
+REMARK   3  BOND LENGTHS IS 0.02 ANGSTROMS.                             6PTI  41
+REMARK   4                                                              6PTI  42
+REMARK   4 THERE WAS NO DENSITY FOR THE FINAL TWO CARBOXY-TERMINAL      6PTI  43
+REMARK   4 RESIDUES (GLY 57 AND ALA 58) IN THE FINAL MAPS.  ARG 39 AND  6PTI  44
+REMARK   4 ASP 50 WERE MODELED WITH TWO CONFORMATIONS.                  6PTI  45
+REMARK   5                                                              6PTI  46
+REMARK   5 COORDINATES FOR 73 WATER MOLECULES ARE GIVEN FOLLOWING THE   6PTI  47
+REMARK   5 MAIN BODY OF THE PROTEIN.  THE NOMENCLATURE OF THE WATER     6PTI  48
+REMARK   5 MOLECULES IS THAT OF THE DEPOSITORS.                         6PTI  49
+REMARK   6                                                              6PTIA  4
+REMARK   6 CORRECTION. UPDATE JRNL REFERENCE TO REFLECT PUBLICATION.    6PTIA  5
+REMARK   6  16-JAN-88.                                                  6PTIA  6
+SEQRES   1     58  ARG PRO ASP PHE CYS LEU GLU PRO PRO TYR THR GLY PRO  6PTI  50
+SEQRES   2     58  CYS LYS ALA ARG ILE ILE ARG TYR PHE TYR ASN ALA LYS  6PTI  51
+SEQRES   3     58  ALA GLY LEU CYS GLN THR PHE VAL TYR GLY GLY CYS ARG  6PTI  52
+SEQRES   4     58  ALA LYS ARG ASN ASN PHE LYS SER ALA GLU ASP CYS MET  6PTI  53
+SEQRES   5     58  ARG THR CYS GLY GLY ALA                              6PTI  54
+HET    PO4    100       5     PHOSPHATE ION                             6PTI  55
+FORMUL   2  PO4    O4 P1 --                                             6PTI  56
+FORMUL   3  HOH   *73(H2 O1)                                            6PTI  57
+HELIX    1  H1 PRO      2  GLU      7  5 ALL DONORS,ACCEPTORS INCLUDED  6PTI  58
+HELIX    2  H2 SER     47  GLY     56  1 ALL DONORS,ACCEPTORS INCLUDED  6PTI  59
+SHEET    1  S1 3 LEU    29  TYR    35  0                                6PTI  60
+SHEET    2  S1 3 ILE    18  ASN    24 -1  N  ILE    18   O  TYR    35   6PTI  61
+SHEET    3  S1 3 PHE    45  PHE    45 -1  N  PHE    45   O  TYR    21   6PTI  62
+SSBOND   1 CYS      5    CYS     55                                     6PTI  63
+SSBOND   2 CYS     14    CYS     38                                     6PTI  64
+SSBOND   3 CYS     30    CYS     51                                     6PTI  65
+CRYST1   55.200   38.200   24.050  90.00  90.00  90.00 P 21 21 2     4  6PTI  66
+ORIGX1      1.000000  0.000000  0.000000        0.00000                 6PTI  67
+ORIGX2      0.000000  1.000000  0.000000        0.00000                 6PTI  68
+ORIGX3      0.000000  0.000000  1.000000        0.00000                 6PTI  69
+SCALE1      0.018116  0.000000  0.000000        0.00000                 6PTI  70
+SCALE2      0.000000  0.026178  0.000000        0.00000                 6PTI  71
+SCALE3      0.000000  0.000000  0.041580        0.00000                 6PTI  72
+ATOM      1  N   ARG     1      12.579  -6.640  11.376  1.00 24.04      6PTI  73
+ATOM      2  CA  ARG     1      12.139  -5.568  10.464  1.00 21.52      6PTI  74
+ATOM      3  C   ARG     1      11.304  -6.259   9.366  1.00 18.34      6PTI  75
+ATOM      4  O   ARG     1      11.724  -7.230   8.757  1.00 17.22      6PTI  76
+ATOM      5  CB  ARG     1      13.190  -4.672   9.878  1.00 22.85      6PTI  77
+ATOM      6  CG  ARG     1      13.820  -4.993   8.563  1.00 24.90      6PTI  78
+ATOM      7  CD  ARG     1      14.478  -3.884   7.852  1.00 26.62      6PTI  79
+ATOM      8  NE  ARG     1      15.347  -3.042   8.595  1.00 29.03      6PTI  80
+ATOM      9  CZ  ARG     1      16.555  -3.097   9.091  1.00 29.05      6PTI  81
+ATOM     10  NH1 ARG     1      17.400  -4.129   9.005  1.00 29.36      6PTI  82
+ATOM     11  NH2 ARG     1      17.042  -2.028   9.750  1.00 29.94      6PTI  83
+ATOM     12  N   PRO     2      10.099  -5.724   9.193  1.00 15.90      6PTI  84
+ATOM     13  CA  PRO     2       9.166  -6.247   8.181  1.00 14.63      6PTI  85
+ATOM     14  C   PRO     2       9.700  -6.139   6.774  1.00 12.14      6PTI  86
+ATOM     15  O   PRO     2      10.428  -5.188   6.389  1.00 11.64      6PTI  87
+ATOM     16  CB  PRO     2       7.915  -5.381   8.391  1.00 14.77      6PTI  88
+ATOM     17  CG  PRO     2       8.076  -4.722   9.708  1.00 15.32      6PTI  89
+ATOM     18  CD  PRO     2       9.578  -4.563   9.914  1.00 15.68      6PTI  90
+ATOM     19  N   ASP     3       9.324  -7.061   5.899  1.00 12.40      6PTI  91
+ATOM     20  CA  ASP     3       9.805  -7.020   4.499  1.00 12.67      6PTI  92
+ATOM     21  C   ASP     3       9.443  -5.726   3.781  1.00  9.95      6PTI  93
+ATOM     22  O   ASP     3      10.077  -5.313   2.802  1.00  9.25      6PTI  94
+ATOM     23  CB  ASP     3       9.193  -8.193   3.699  1.00 18.98      6PTI  95
+ATOM     24  CG  ASP     3       9.814  -9.527   4.031  1.00 26.04      6PTI  96
+ATOM     25  OD1 ASP     3       9.236 -10.570   3.638  1.00 29.28      6PTI  97
+ATOM     26  OD2 ASP     3      10.892  -9.510   4.691  1.00 26.07      6PTI  98
+ATOM     27  N   PHE     4       8.309  -5.148   4.218  1.00  9.29      6PTI  99
+ATOM     28  CA  PHE     4       7.816  -3.959   3.494  1.00  8.08      6PTI 100
+ATOM     29  C   PHE     4       8.800  -2.811   3.570  1.00  8.09      6PTI 101
+ATOM     30  O   PHE     4       8.756  -1.885   2.767  1.00  8.73      6PTI 102
+ATOM     31  CB  PHE     4       6.410  -3.603   3.899  1.00  6.82      6PTI 103
+ATOM     32  CG  PHE     4       6.262  -2.991   5.244  1.00  7.62      6PTI 104
+ATOM     33  CD1 PHE     4       6.718  -1.669   5.451  1.00  9.00      6PTI 105
+ATOM     34  CD2 PHE     4       5.610  -3.664   6.273  1.00 11.23      6PTI 106
+ATOM     35  CE1 PHE     4       6.605  -1.077   6.714  1.00 12.37      6PTI 107
+ATOM     36  CE2 PHE     4       5.413  -3.057   7.521  1.00 12.24      6PTI 108
+ATOM     37  CZ  PHE     4       5.938  -1.758   7.732  1.00 14.23      6PTI 109
+ATOM     38  N   CYS     5       9.668  -2.901   4.558  1.00  7.54      6PTI 110
+ATOM     39  CA  CYS     5      10.695  -1.837   4.748  1.00  7.58      6PTI 111
+ATOM     40  C   CYS     5      11.662  -1.786   3.589  1.00  8.13      6PTI 112
+ATOM     41  O   CYS     5      12.353  -0.767   3.424  1.00  8.51      6PTI 113
+ATOM     42  CB  CYS     5      11.383  -2.119   6.082  1.00  7.18      6PTI 114
+ATOM     43  SG  CYS     5      10.450  -2.044   7.557  1.00  8.77      6PTI 115
+ATOM     44  N   LEU     6      11.850  -2.875   2.842  1.00  7.71      6PTI 116
+ATOM     45  CA  LEU     6      12.752  -2.900   1.707  1.00  9.76      6PTI 117
+ATOM     46  C   LEU     6      12.102  -2.510   0.403  1.00 10.37      6PTI 118
+ATOM     47  O   LEU     6      12.754  -2.458  -0.650  1.00 11.10      6PTI 119
+ATOM     48  CB  LEU     6      13.477  -4.303   1.705  1.00 11.60      6PTI 120
+ATOM     49  CG  LEU     6      14.869  -4.124   2.391  1.00 14.85      6PTI 121
+ATOM     50  CD1 LEU     6      14.684  -3.842   3.856  1.00 16.75      6PTI 122
+ATOM     51  CD2 LEU     6      15.712  -5.331   2.120  1.00 16.98      6PTI 123
+ATOM     52  N   GLU     7      10.793  -2.221   0.383  1.00  9.41      6PTI 124
+ATOM     53  CA  GLU     7      10.157  -1.855  -0.909  1.00 10.43      6PTI 125
+ATOM     54  C   GLU     7      10.389  -0.361  -1.148  1.00 10.40      6PTI 126
+ATOM     55  O   GLU     7      10.576   0.439  -0.218  1.00  8.57      6PTI 127
+ATOM     56  CB  GLU     7       8.638  -2.159  -0.816  1.00 12.60      6PTI 128
+ATOM     57  CG  GLU     7       8.368  -3.717  -0.753  1.00 18.27      6PTI 129
+ATOM     58  CD  GLU     7       6.928  -4.075  -0.523  1.00 26.74      6PTI 130
+ATOM     59  OE1 GLU     7       6.059  -3.204  -0.301  1.00 30.64      6PTI 131
+ATOM     60  OE2 GLU     7       6.669  -5.310  -0.620  1.00 27.63      6PTI 132
+ATOM     61  N   PRO     8      10.451   0.001  -2.432  1.00 10.94      6PTI 133
+ATOM     62  CA  PRO     8      10.626   1.426  -2.764  1.00 11.33      6PTI 134
+ATOM     63  C   PRO     8       9.336   2.172  -2.379  1.00  7.81      6PTI 135
+ATOM     64  O   PRO     8       8.241   1.573  -2.240  1.00  9.34      6PTI 136
+ATOM     65  CB  PRO     8      10.960   1.433  -4.256  1.00 12.22      6PTI 137
+ATOM     66  CG  PRO     8      10.296   0.218  -4.773  1.00 13.92      6PTI 138
+ATOM     67  CD  PRO     8      10.265  -0.817  -3.630  1.00 13.51      6PTI 139
+ATOM     68  N   PRO     9       9.488   3.436  -2.173  1.00  7.60      6PTI 140
+ATOM     69  CA  PRO     9       8.318   4.301  -1.818  1.00  7.15      6PTI 141
+ATOM     70  C   PRO     9       7.353   4.379  -2.987  1.00  6.38      6PTI 142
+ATOM     71  O   PRO     9       7.755   4.254  -4.156  1.00  8.35      6PTI 143
+ATOM     72  CB  PRO     9       8.921   5.613  -1.423  1.00  5.61      6PTI 144
+ATOM     73  CG  PRO     9      10.231   5.670  -2.147  1.00  7.56      6PTI 145
+ATOM     74  CD  PRO     9      10.735   4.224  -2.305  1.00  6.38      6PTI 146
+ATOM     75  N   TYR    10       6.095   4.674  -2.727  1.00  6.58      6PTI 147
+ATOM     76  CA  TYR    10       5.066   4.730  -3.754  1.00  6.10      6PTI 148
+ATOM     77  C   TYR    10       4.296   6.042  -3.663  1.00  6.36      6PTI 149
+ATOM     78  O   TYR    10       3.701   6.328  -2.631  1.00  7.62      6PTI 150
+ATOM     79  CB  TYR    10       4.181   3.488  -3.497  1.00  6.31      6PTI 151
+ATOM     80  CG  TYR    10       3.029   3.445  -4.427  1.00  6.32      6PTI 152
+ATOM     81  CD1 TYR    10       3.261   3.119  -5.776  1.00 11.47      6PTI 153
+ATOM     82  CD2 TYR    10       1.740   3.771  -4.019  1.00  8.96      6PTI 154
+ATOM     83  CE1 TYR    10       2.226   3.092  -6.701  1.00 13.89      6PTI 155
+ATOM     84  CE2 TYR    10       0.688   3.691  -4.926  1.00 12.80      6PTI 156
+ATOM     85  CZ  TYR    10       0.940   3.369  -6.244  1.00 15.30      6PTI 157
+ATOM     86  OH  TYR    10      -0.131   3.354  -7.136  1.00 22.42      6PTI 158
+ATOM     87  N   THR    11       4.394   6.817  -4.740  1.00  5.83      6PTI 159
+ATOM     88  CA  THR    11       3.717   8.117  -4.765  1.00  7.05      6PTI 160
+ATOM     89  C   THR    11       2.210   7.965  -4.946  1.00  6.01      6PTI 161
+ATOM     90  O   THR    11       1.428   8.703  -4.266  1.00  6.92      6PTI 162
+ATOM     91  CB  THR    11       4.329   9.105  -5.831  1.00  6.52      6PTI 163
+ATOM     92  OG1 THR    11       5.666   9.427  -5.299  1.00 11.27      6PTI 164
+ATOM     93  CG2 THR    11       3.511  10.406  -5.901  1.00  5.54      6PTI 165
+ATOM     94  N   GLY    12       1.774   7.077  -5.814  1.00  7.97      6PTI 166
+ATOM     95  CA  GLY    12       0.301   6.876  -6.018  1.00  8.94      6PTI 167
+ATOM     96  C   GLY    12      -0.258   7.851  -7.038  1.00  9.50      6PTI 168
+ATOM     97  O   GLY    12       0.466   8.757  -7.529  1.00 11.26      6PTI 169
+ATOM     98  N   PRO    13      -1.515   7.732  -7.368  1.00 10.46      6PTI 170
+ATOM     99  CA  PRO    13      -2.212   8.528  -8.379  1.00 11.30      6PTI 171
+ATOM    100  C   PRO    13      -2.799   9.841  -7.937  1.00 11.24      6PTI 172
+ATOM    101  O   PRO    13      -3.215  10.628  -8.824  1.00 13.87      6PTI 173
+ATOM    102  CB  PRO    13      -3.323   7.539  -8.866  1.00 10.81      6PTI 174
+ATOM    103  CG  PRO    13      -3.707   6.825  -7.595  1.00 12.36      6PTI 175
+ATOM    104  CD  PRO    13      -2.405   6.640  -6.824  1.00 10.77      6PTI 176
+ATOM    105  N   CYS    14      -2.809  10.195  -6.661  1.00  8.61      6PTI 177
+ATOM    106  CA  CYS    14      -3.404  11.488  -6.227  1.00  7.59      6PTI 178
+ATOM    107  C   CYS    14      -2.401  12.606  -6.438  1.00  9.12      6PTI 179
+ATOM    108  O   CYS    14      -1.246  12.338  -6.734  1.00  8.06      6PTI 180
+ATOM    109  CB  CYS    14      -4.002  11.395  -4.848  1.00  6.57      6PTI 181
+ATOM    110  SG  CYS    14      -5.492  10.377  -4.887  1.00 10.86      6PTI 182
+ATOM    111  N   LYS    15      -2.974  13.822  -6.367  1.00  8.52      6PTI 183
+ATOM    112  CA  LYS    15      -2.167  14.982  -6.762  1.00  9.43      6PTI 184
+ATOM    113  C   LYS    15      -1.621  15.858  -5.708  1.00  9.36      6PTI 185
+ATOM    114  O   LYS    15      -1.077  16.958  -6.109  1.00 10.05      6PTI 186
+ATOM    115  CB  LYS    15      -3.023  15.763  -7.780  1.00 12.40      6PTI 187
+ATOM    116  CG  LYS    15      -3.356  14.821  -8.968  1.00 17.65      6PTI 188
+ATOM    117  CD  LYS    15      -4.113  15.672  -9.973  1.00 25.87      6PTI 189
+ATOM    118  CE  LYS    15      -4.750  14.855 -11.065  1.00 30.34      6PTI 190
+ATOM    119  NZ  LYS    15      -5.692  13.830 -10.543  1.00 33.89      6PTI 191
+ATOM    120  N   ALA    16      -1.704  15.499  -4.446  1.00  9.07      6PTI 192
+ATOM    121  CA  ALA    16      -1.127  16.382  -3.392  1.00  9.08      6PTI 193
+ATOM    122  C   ALA    16       0.399  16.217  -3.405  1.00  9.53      6PTI 194
+ATOM    123  O   ALA    16       0.936  15.331  -4.117  1.00  8.85      6PTI 195
+ATOM    124  CB  ALA    16      -1.722  16.008  -2.073  1.00 10.35      6PTI 196
+ATOM    125  N   ARG    17       1.058  17.056  -2.640  1.00  9.16      6PTI 197
+ATOM    126  CA  ARG    17       2.527  16.968  -2.470  1.00 10.86      6PTI 198
+ATOM    127  C   ARG    17       2.819  16.940  -0.979  1.00 11.21      6PTI 199
+ATOM    128  O   ARG    17       3.239  17.874  -0.297  1.00 12.40      6PTI 200
+ATOM    129  CB  ARG    17       3.273  18.056  -3.236  1.00  9.85      6PTI 201
+ATOM    130  CG  ARG    17       2.918  18.171  -4.713  1.00 12.22      6PTI 202
+ATOM    131  CD  ARG    17       3.536  19.441  -5.315  1.00 13.59      6PTI 203
+ATOM    132  NE  ARG    17       4.924  19.163  -5.436  1.00 17.74      6PTI 204
+ATOM    133  CZ  ARG    17       5.585  18.414  -6.323  1.00 20.52      6PTI 205
+ATOM    134  NH1 ARG    17       6.853  17.978  -6.058  1.00 21.16      6PTI 206
+ATOM    135  NH2 ARG    17       5.022  18.134  -7.495  1.00 21.89      6PTI 207
+ATOM    136  N   ILE    18       2.571  15.742  -0.404  1.00  9.20      6PTI 208
+ATOM    137  CA  ILE    18       2.736  15.475   1.019  1.00  8.34      6PTI 209
+ATOM    138  C   ILE    18       4.096  14.798   1.250  1.00 10.21      6PTI 210
+ATOM    139  O   ILE    18       4.353  13.750   0.640  1.00  9.03      6PTI 211
+ATOM    140  CB  ILE    18       1.565  14.495   1.499  1.00  9.87      6PTI 212
+ATOM    141  CG1 ILE    18       0.210  15.185   1.214  1.00 12.53      6PTI 213
+ATOM    142  CG2 ILE    18       1.745  14.153   2.999  1.00 11.21      6PTI 214
+ATOM    143  CD1 ILE    18      -1.026  14.274   1.343  1.00 12.11      6PTI 215
+ATOM    144  N   ILE    19       4.896  15.424   2.120  1.00  8.83      6PTI 216
+ATOM    145  CA  ILE    19       6.219  14.826   2.437  1.00  8.57      6PTI 217
+ATOM    146  C   ILE    19       6.007  13.743   3.476  1.00  8.62      6PTI 218
+ATOM    147  O   ILE    19       5.473  13.960   4.595  1.00  8.60      6PTI 219
+ATOM    148  CB  ILE    19       7.220  15.970   2.899  1.00 10.67      6PTI 220
+ATOM    149  CG1 ILE    19       7.343  17.030   1.780  1.00 11.57      6PTI 221
+ATOM    150  CG2 ILE    19       8.600  15.434   3.323  1.00 11.65      6PTI 222
+ATOM    151  CD1 ILE    19       7.658  16.589   0.348  1.00 13.31      6PTI 223
+ATOM    152  N   ARG    20       6.461  12.529   3.098  1.00  7.52      6PTI 224
+ATOM    153  CA  ARG    20       6.336  11.341   3.935  1.00  6.98      6PTI 225
+ATOM    154  C   ARG    20       7.731  10.691   4.058  1.00  6.59      6PTI 226
+ATOM    155  O   ARG    20       8.589  11.147   3.296  1.00  7.41      6PTI 227
+ATOM    156  CB  ARG    20       5.318  10.321   3.402  1.00  6.63      6PTI 228
+ATOM    157  CG  ARG    20       3.814  10.759   3.478  1.00  7.14      6PTI 229
+ATOM    158  CD  ARG    20       3.400  10.780   4.938  1.00  7.29      6PTI 230
+ATOM    159  NE  ARG    20       1.990  11.280   5.067  1.00  6.57      6PTI 231
+ATOM    160  CZ  ARG    20       0.953  10.436   4.942  1.00  8.52      6PTI 232
+ATOM    161  NH1 ARG    20       1.008   9.142   4.685  1.00  8.23      6PTI 233
+ATOM    162  NH2 ARG    20      -0.257  10.984   5.045  1.00  8.78      6PTI 234
