@@ -100,3 +100,5 @@ if you have any problems.
 
 Writes out alpha shape data structure for use/reading in by other code.
 See small.alpha for sample file
+
+[![doi](https://zenodo.org/badge/3853/ryancoleman/Pocket.png)](http://dx.doi.org/10.5281/zenodo.10212)
